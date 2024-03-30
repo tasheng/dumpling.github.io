@@ -1,37 +1,80 @@
+#+REVEAL_ROOT: reveal.js-4.1.0
+#+OPTIONS: num:nil toc:nil reveal_title_slide:nil
+#+REVEAL_TRANS: fade
+#+REVEAL_THEME: moon
+
+#+REVEAL_INIT_OPTIONS: width:1024, height:768, controlsLayout: 'edges
+
+#+Title: 燉一碗熱呼呼的圓仔湯
+#+Author: 盛子安
+#+Email: tasheng@mit.edu
+
+# reveal_extra_attr to headings display: none;
 
 * 燉一碗熱呼呼的圓仔湯
+#+ATTR_HTML: :width 50%
 [[./fig/sweat.webp]]
+# #+REVEAL_HTML: <div style="width:80;float:middle">
+# #+REVEAL_HTML: 
+# #+REVEAL_HTML: <img src="salzburg.png" style="height: 30%">
+# #+REVEAL_HTML: </div>
 
 * 燉一碗熱呼呼的圓仔湯
-[[tangyuan]]
+#+ATTR_HTML: :width 50%
+[[./fig/tangyuan.png]]
 
-* I had a dream
-
-* 特級廚師
+* 
+  :PROPERTIES:
+  :reveal_extra_attr: display="none"
+  :END:
+#+ATTR_HTML: :width 50%
 [[./fig/chef_original.jpg]]
 
-* 清湯？濃湯？
+* 清湯？濃湯？大秘湯！
+#+ATTR_HTML: :width 50%
 [[./fig/question_soup.webp]]
 
-* 難題 (1min)
-- hot
-- transient
+* 難題
+#+ATTR_HTML: :width 50%
+[[./fig/hot.png]]
+#+begin_notes
+1 min
+#+end_notes
+
+* 三色湯圓怕寂寞
+#+ATTR_HTML: :width 50%
+[[./fig/tricolor.jpeg]]
+* 彈簧
 
 * attack separately?
 * thought experiment
 * tangyuan brownian motion
 * colliding and sticking into each other
 
-* 醒了
-
-* asymptotic freedom
-[[./fig/tricolor.jpeg]]
-* 彈簧
+* 
+  @@html:<video controls width="800" height="600" src="./video/formation.mp4" autoplay></video>@@
 
 * 
+#+ATTR_HTML: :width 100%
+[[./fig/run3-PbPb-2023_5_0.png]]
+* 
+#+ATTR_HTML: :width 100%
+[[./fig/HI-dibjet_v3.png]]
+
+* 
+  @@html:<video controls width="800" height="600" src="./media/Intro_hadronization.mp4" autoplay></video>@@
+
 * 宇宙大燒賣
-* closing (6min)
-* 
-* ddbar correlation?
-* 
 
+* 結語
+#+ATTR_HTML: :width 50%
+[[./fig/tangyuan.png]]
+
+
+* backup
+** backup
+  @@html:<video controls width="800" height="600" src="./media/Intro_UPC.mp4" autoplay></video>@@
+** backup
+  @@html:<video controls width="800" height="600" src="./media/Intro_freezepout.mp4" autoplay></video>@@
+** backup
+  @@html:<video controls width="800" height="600" src="./media/Intro_initial.mp4" autoplay></video>@@
