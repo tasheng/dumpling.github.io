@@ -28,8 +28,10 @@
 # #+REVEAL_HTML: </div>
 
 * 燉一碗熱呼呼的圓仔湯
-#+ATTR_HTML: :width 50%
+#+ATTR_HTML: :width 40%
 [[./fig/tangyuan.png]]
+
+盛子安
 
 * 
   :PROPERTIES:
@@ -58,6 +60,10 @@
 #+ATTR_HTML: :width 50%
 [[./fig/red.webp]]
 # * tangyuan brownian motion
+
+* 
+#+ATTR_HTML: :width 50%
+[[./fig/proliferate.webp]]
 
 * 三色湯圓怕寂寞
 #+ATTR_HTML: :width 50%
@@ -97,13 +103,12 @@
 [[./fig/siumai.webp]]
 
 * 
-#+ATTR_HTML: :width 80%
+#+ATTR_HTML: :width 65%
 [[./fig/early.png]]
 
 * 
 #+ATTR_HTML: :width 70%
 [[./fig/tangyuan_close.png]]
-
 
 * backup
 
@@ -116,11 +121,11 @@
   @@html:<video controls width="800" height="600" src="./media/Intro_initial.mp4" autoplay></video>@@
 
 * LHC
-#+ATTR_HTML: :width 80%
+#+ATTR_HTML: :width 70%
 [[./fig/LHC.png]]
 
 * RAA
-#+ATTR_HTML: :width 70%
+#+ATTR_HTML: :width 60%
 [[./fig/Figure_004.png]]
 
 https://cds.cern.ch/record/2871505?ln=en
