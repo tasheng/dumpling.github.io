@@ -1,21 +1,25 @@
 
 * 燉一碗熱呼呼的圓仔湯
-[[panda]]
+[[./fig/sweat.webp]]
 
 * 燉一碗熱呼呼的圓仔湯
 [[tangyuan]]
 
 * I had a dream
+
 * 特級廚師
+[[./fig/chef_original.jpg]]
 
 * 清湯？濃湯？
+[[./fig/question_soup.webp]]
 
 * 難題 (1min)
 - hot
 - transient
 
+* attack separately?
+* thought experiment
 * tangyuan brownian motion
-
 * colliding and sticking into each other
 
 * 醒了
