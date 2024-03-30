@@ -41,18 +41,36 @@
 1 min
 #+end_notes
 
+* 
+#+ATTR_HTML: :width 50%
+[[./fig/white.webp]]
+
+
+* 
+#+ATTR_HTML: :width 50%
+[[./fig/red.webp]]
+# * tangyuan brownian motion
+
 * 三色湯圓怕寂寞
 #+ATTR_HTML: :width 50%
 [[./fig/tricolor.jpeg]]
-* 彈簧
 
-* attack separately?
-* thought experiment
-* tangyuan brownian motion
-* colliding and sticking into each other
+感謝 Ed Chen
 
 * 
-  @@html:<video controls width="800" height="600" src="./video/formation.mp4" autoplay></video>@@
+#+ATTR_HTML: :width 50%
+[[./fig/proliferate.webp]]
+
+* 
+#+ATTR_HTML: :width 70%
+[[./fig/phase.png]]
+
+* 湯圓的增生
+#+ATTR_HTML: :width 50%
+[[./fig/qcd.png]]
+
+* 
+  @@html:<video controls width="800" height="600" src="./video/formation.mp4" autoplay muted></video>@@
 
 * 
 #+ATTR_HTML: :width 100%
@@ -62,19 +80,39 @@
 [[./fig/HI-dibjet_v3.png]]
 
 * 
-  @@html:<video controls width="800" height="600" src="./media/Intro_hadronization.mp4" autoplay></video>@@
+  @@html:<video controls width="800" height="600" src="./media/Intro_hadronization.mp4" autoplay muted></video>@@
+
+感謝 Jing Wang
 
 * 宇宙大燒賣
-
-* 結語
 #+ATTR_HTML: :width 50%
-[[./fig/tangyuan.png]]
+[[./fig/siumai.webp]]
+
+* 
+#+ATTR_HTML: :width 80%
+[[./fig/early.png]]
+
+* 
+#+ATTR_HTML: :width 70%
+[[./fig/tangyuan_close.png]]
 
 
 * backup
-** backup
+
+* More animation
+** UPC
   @@html:<video controls width="800" height="600" src="./media/Intro_UPC.mp4" autoplay></video>@@
-** backup
+** freezeout
   @@html:<video controls width="800" height="600" src="./media/Intro_freezepout.mp4" autoplay></video>@@
-** backup
+** initial
   @@html:<video controls width="800" height="600" src="./media/Intro_initial.mp4" autoplay></video>@@
+
+* LHC
+#+ATTR_HTML: :width 80%
+[[./fig/LHC.png]]
+
+* RAA
+#+ATTR_HTML: :width 70%
+[[./fig/Figure_004.png]]
+
+https://cds.cern.ch/record/2871505?ln=en
