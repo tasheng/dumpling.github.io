@@ -1,9 +1,17 @@
+# -*- org-re-reveal-title-slide: nil -*-
+# -*- org-reveal-title-slide: nil -*-
+# -*- org-confirm-babel-evaluate: nil -*-
+
+
 #+REVEAL_ROOT: reveal.js-4.1.0
-#+OPTIONS: num:nil toc:nil reveal_title_slide:nil
+#+OPTIONS: num:nil toc:nil
+#+OPTIONS: reveal_title_slide:nil
 #+REVEAL_TRANS: fade
 #+REVEAL_THEME: moon
 
 #+REVEAL_INIT_OPTIONS: width:1024, height:768, controlsLayout: 'edges
+
+# public https://github.mit.edu/pages/tasheng/tasheng.github.io/yuanxiao.html
 
 #+Title: 燉一碗熱呼呼的圓仔湯
 #+Author: 盛子安
@@ -65,12 +73,12 @@
 #+ATTR_HTML: :width 70%
 [[./fig/phase.png]]
 
-* 湯圓的增生
+* 秘湯的增生
 #+ATTR_HTML: :width 50%
 [[./fig/qcd.png]]
 
 * 
-  @@html:<video controls width="800" height="600" src="./video/formation.mp4" autoplay muted></video>@@
+  @@html:<video controls width="800" height="600" src="./video/formation.mp4" muted></video>@@
 
 * 
 #+ATTR_HTML: :width 100%
@@ -80,7 +88,7 @@
 [[./fig/HI-dibjet_v3.png]]
 
 * 
-  @@html:<video controls width="800" height="600" src="./media/Intro_hadronization.mp4" autoplay muted></video>@@
+  @@html:<video controls width="800" height="600" src="./media/Intro_hadronization.mp4" loop autoplay muted></video>@@
 
 感謝 Jing Wang
 
@@ -116,3 +124,6 @@
 [[./fig/Figure_004.png]]
 
 https://cds.cern.ch/record/2871505?ln=en
+
+
+
