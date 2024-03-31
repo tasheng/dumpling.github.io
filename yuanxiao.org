@@ -8,6 +8,7 @@
 #+OPTIONS: reveal_title_slide:nil
 #+REVEAL_TRANS: fade
 #+REVEAL_THEME: moon
+# background: #002b36
 
 #+REVEAL_INIT_OPTIONS: width:1024, height:768, controlsLayout: 'edges
 
@@ -22,14 +23,10 @@
 * 燉一碗熱呼呼的圓仔湯
 #+ATTR_HTML: :width 50%
 [[./fig/sweat.webp]]
-# #+REVEAL_HTML: <div style="width:80;float:middle">
-# #+REVEAL_HTML: 
-# #+REVEAL_HTML: <img src="salzburg.png" style="height: 30%">
-# #+REVEAL_HTML: </div>
 
 * 燉一碗熱呼呼的圓仔湯
 #+ATTR_HTML: :width 40%
-[[./fig/tangyuan.png]]
+[[./fig/tangyuan_fade.png]]
 
 盛子安
 
@@ -110,19 +107,29 @@
 #+ATTR_HTML: :width 70%
 [[./fig/tangyuan_close.png]]
 
-* backup
+* Backup
 
-* More animation
-** UPC
-  @@html:<video controls width="800" height="600" src="./media/Intro_UPC.mp4" autoplay></video>@@
-** freezeout
-  @@html:<video controls width="800" height="600" src="./media/Intro_freezepout.mp4" autoplay></video>@@
-** initial
-  @@html:<video controls width="800" height="600" src="./media/Intro_initial.mp4" autoplay></video>@@
+* phase diagram
+#+ATTR_HTML: :width 50%
+[[./fig/diagramdephase.png]]
+
+* Fermion masses
+#+ATTR_HTML: :width 40%
+[[./fig/masses.jpg]]
 
 * LHC
 #+ATTR_HTML: :width 70%
 [[./fig/LHC.png]]
+
+* CMS detector
+#+ATTR_HTML: :width 60%
+[[./fig/detector.jpg]]
+
+* CMS video1
+  @@html:<video controls muted width="960" height="540" src="https://videos.cern.ch/api/files/f0fce301-299b-4e1c-86f2-5a03283abd28/1080p.mp4" ></video>@@
+
+* CMS video2
+  @@html:<video controls muted width="960" height="540" src="https://videos.cern.ch/api/files/a3610c01-1306-4921-a28a-df9ae9468aa1/1080p.mp4" ></video>@@
 
 * RAA
 #+ATTR_HTML: :width 60%
@@ -131,4 +138,10 @@
 https://cds.cern.ch/record/2871505?ln=en
 
 
-
+* More animation
+** UPC
+  @@html:<video controls width="800" height="600" src="./media/Intro_UPC.mp4" autoplay></video>@@
+** freezeout
+  @@html:<video controls width="800" height="600" src="./media/Intro_freezepout.mp4" autoplay></video>@@
+** initial
+  @@html:<video controls width="800" height="600" src="./media/Intro_initial.mp4" autoplay></video>@@
